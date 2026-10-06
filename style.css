@@ -31,3 +31,10 @@ h1 {
 section {
     margin-top: 30px;
 }
+
+section {
+    margin-top: 30px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
